@@ -1,0 +1,2 @@
+# AGS-Script
+AGS Script
